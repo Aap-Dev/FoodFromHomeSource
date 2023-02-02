@@ -1,6 +1,8 @@
 # FoodFromHomeSource
 The source code of the app: FoodFromHome
+
 Database credentials blurred out for obvious reasons
+
 Made for a school project
 
 # LIVE URL
