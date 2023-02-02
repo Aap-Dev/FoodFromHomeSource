@@ -1,0 +1,20 @@
+{
+  "background_color": "#ffffff",
+  "description": "Tasy meals and the best deals!",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "FoodFromHome",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "FFH",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "food"
+  ],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": [],
+  "lang": "en",
+  "iarc_rating_id": "Pegi 3"
+}
